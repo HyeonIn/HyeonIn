@@ -10,7 +10,7 @@
 </p>
 
 <br>
-<h3>:wink: About Me :sunglasses:</h3><br>
+<h3>:wink: Contact :sunglasses:</h3><br>
 
 <p>
 	<!--
