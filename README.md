@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
 </p>
-
-<br>
 <h3>:wink: Contact :sunglasses:</h3><br>
 
 <p>
