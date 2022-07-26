@@ -19,7 +19,7 @@
 </p>
 
 <br><br>
-<h3 align="center">🍀 About Me 🍀</h3><br>
+<h3 align="center">:wink: About Me :sunglasses:</h3><br>
 
 <p align="center">
 	<!--
