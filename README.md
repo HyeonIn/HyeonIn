@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Html5-000000?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"> 
-<br>
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
 </p>
 
