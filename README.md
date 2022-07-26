@@ -21,3 +21,5 @@
 	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Instagram-@hyunninnnn-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Mail-gusdlsdlek@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HyeonIn&layout=compact&langs_count=8"/>
