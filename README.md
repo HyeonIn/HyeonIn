@@ -22,16 +22,10 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
+	<!--
     <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://syun32.github.io/TIL/"><img src="https://img.shields.io/badge/Git Blog-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
+	-->
 	<a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
-
-<p align="center">Click to go </p>
-
-<!--
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
--->
