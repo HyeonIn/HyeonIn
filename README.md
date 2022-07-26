@@ -7,13 +7,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/AWS EC2-FF8C00?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS RDS-FF8C00?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
 </p>
 
 <br><br>
