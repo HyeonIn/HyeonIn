@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
 </p>
 
-<br><br>
-<h3 align="center">:wink: About Me :sunglasses:</h3><br>
+<br>
+<h3>:wink: About Me :sunglasses:</h3><br>
 
-<p align="center">
+<p>
 	<!--
     <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-000000?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
