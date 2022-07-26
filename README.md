@@ -18,5 +18,6 @@
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-000000?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://syun32.github.io/TIL/"><img src="https://img.shields.io/badge/Git Blog-TIL-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	-->
-	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Instagram-@hyunninnnn-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Mail-gusdlsdlek@gmail.com-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
