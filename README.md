@@ -3,12 +3,12 @@
 <h3 align="center">:hammer: Stacks :wrench:</h3>
 
 <p align = "center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Html5-FFFFFF?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=white"> 
 <br>
-  <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
 </p>
 
 <br><br>
@@ -20,5 +20,5 @@
     <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	<a href="https://syun32.github.io/TIL/"><img src="https://img.shields.io/badge/Git Blog-TIL-EEEEEE?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
 	-->
-	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
