@@ -1,7 +1,7 @@
 <!-- HyeonIn -->
-<h3 align="center">:hammer: Stacks :wrench:</h3>
+<h3>:hammer: Stacks :wrench:</h3>
 
-<p align = "center"> 
+<p> 
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Html5-000000?style=flat-square&logo=html5&logoColor=white"> 
