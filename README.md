@@ -1,5 +1,4 @@
 <!-- HyeonIn -->
-![#111111](https://via.placeholder.com/15/f03c15/f03c15.png)
 <h3 align="center">:hammer: Stacks :wrench:</h3>
 
 <p align = "center"> 
