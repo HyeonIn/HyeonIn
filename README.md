@@ -20,5 +20,5 @@
 	<a href="https://www.instagram.com/hyunninnnn/"><img src="https://img.shields.io/badge/Mail-gusdlsdlek@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HyeonIn&layout=compact&langs_count=8"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HyeonIn=anuraghazra&show_icons=true&theme=dracula)
+<img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HyeonIn&layout=compact&langs_count=8"/>
+<img height=200em" width="360em" src="https://github-readme-stats.vercel.app/api?username=HyeonIn&show_icons=true&theme=dracula"/>
