@@ -1,5 +1,5 @@
 <!-- HyeonIn -->
-<div align="center">
+<div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=60&duration=3500&color=000000&background=4E5FFF00&center=true&vCenter=true&height=100&lines=Hi+there!+I'm+HyeonIn+%3AD" alt="Typing SVG" /></a>
 </div>
 
