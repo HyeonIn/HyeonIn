@@ -16,7 +16,10 @@
 
 <h4> :medal_sports: BaekJun </h4>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cupido)](https://solved.ac/cupido)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cupido)](https://solved.ac/cupido)
+
+<img src="http://mazandi.herokuapp.com/api?handle=cupido&theme=cool" width = 49%/>
+
 
 <h4>:e-mail: Contact </h4>
 
