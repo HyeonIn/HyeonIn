@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Html5-000000?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vue.js&logoColor=white"/>
 </p> 
 
 <h4> :medal_sports: BaekJun </h4>
