@@ -1,52 +1,27 @@
 <!-- HyeonIn -->
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=60&duration=3500&color=000000&background=4E5FFF00&center=true&vCenter=true&height=100&lines=Hi+there!+I'm+HyeonIn+%3AD" alt="Typing SVG" /></a>
-</div>
+<h3>안녕하세요 호기심은 많은 개발자 최현인입니다.</h3>
 
-
-
-<h4>:books: Stacks </h4>
+<h3> Who Am I</h3>
+<ul>
+    <li>SPA 구조의 웹/앱 서비스 프론트엔드 설계, 개발 경험</li>
+    <li>기획부터 구현 및 배포까지 경험한 프로젝트 3회</li>
+    <li>다수의 UI 구현 경험으로 사용자 인터렉션에 대한 높은 이해도</li>
+    <li>학부 시절 학생회장 경험을 통해 쌓인 높은 소통 능력과 리더십</li>
+</ul>
+    
+<h3>Stacks </h3>
 <p> 
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-000000?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Html5-000000?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/> 
 </p> 
 
-<h4> :medal_sports: BaekJun </h4>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cupido)](https://solved.ac/cupido)
-
-<img src="http://mazandi.herokuapp.com/api?handle=cupido&theme=cool" width = 49%/>
-
-
-<h4>:e-mail: Contact </h4>
+<h3>Contact </h3>
 
 <p>
-<a href="https://www.instagram.com/hyunninnnn/">
- <img src="https://img.shields.io/badge/Instagram-@hyunninnnn-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-<a href="https://www.instagram.com/hyunninnnn/">
  <img src="https://img.shields.io/badge/Mail-gusdlsdlek@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
-
-<br>
-
-<a href="https://github.com/HyeonIn">
- <img src="https://github-readme-stats.vercel.app/api?username=HyeonIn&show_icons=true&theme=graywhite" width = 49%/></a>&nbsp
-<a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyeonIn&theme=default" width = 49%/></a>&nbsp
- 
-<br>
-<br>
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonIn&count_bg=%23000000&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>&nbsp
-</div>
-
-
-
 
